@@ -61,7 +61,7 @@ I am a dedicated front end developer specialized in React.js and TypeScript, foc
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | 🛍️ E-Commerce Platform | Full-stack e-commerce app with authentication, role-based access, and secure checkout flow. Fully responsive and WCAG compliant. | React · TypeScript · Node.js · PostgreSQL · JWT | [Live](#) · [Repo](#) |
-| 📊 FlashMark Extension | Chrome extension that converts Markdown to AI-generated flashcards, or any website text to flashcards for quick learning. | React · Vite · TypeScript · Node.js · PostgreSQL | [Live](#) · [Repo](#) |
+| 📊 FlashMark Extension | Chrome extension that converts Markdown to AI-generated flashcards, or any website text to flashcards for quick learning. | React · Vite · TypeScript · Node.js · OpenRouter(Gemini) · PostgreSQL | [Live](#) · [Repo](#) |
 | 🌐 Websites | Responsive websites with custom UI system, SEO optimization, and WooCommerce integration. | WordPress · WooCommerce · Figma · Adobe Suite | [Live](#) |
 | 🔐 Gym Management System | Secure REST API with JWT authentication, role management, and unit testing. | ASP.NET Core Web API (C#/.NET) · PostgreSQL · React.js · Unit tests (xUnit) | [Live](#) · [Repo](#) |
 
