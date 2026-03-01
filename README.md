@@ -12,43 +12,43 @@ I am a dedicated front end developer specialized in React.js and TypeScript, foc
 ### 🛠️ Tech Stack  
 
 #### 🎨 Frontend Tools
-- ⚛️ React.js  
-- 🟨 JavaScript / 🟦 TypeScript  
-- 🌐 HTML5 / 🎭 CSS3  
-- 📱 Responsive & Mobile Design  
-- 🧩 Component-Based Architecture  
-- ✨ CSS Animations & Transitions  
-- ⚡ Vite  
-- ♿ WCAG Accessibility  
+- React.js  
+- JavaScript / TypeScript  
+- HTML5 / CSS3  
+- Responsive & Mobile Design  
+- Component-Based Architecture  
+- CSS Animations & Transitions  
+- Vite  
+- WCAG Accessibility  
 
 #### 🖥️ Backend Tools
-- 🟣 C# / .NET  
-- 🟢 Node.js  
-- 🐘 SQL / PostgreSQL  
-- 🔗 REST API Development  
-- 🔐 Authentication (JWT / OAuth)  
-- 🧪 API Integration & Testing  
+- C# / .NET  
+- Node.js  
+- SQL / PostgreSQL  
+- REST API Development  
+- Authentication (JWT / OAuth)  
+- API Integration & Testing  
 
 #### ⚙️ Tools & Workflow
-- 🐙 Git / GitHub  
-- 🧪 Postman  
-- 🔄 Agile Methodologies (SCRUM)  
-- 🧼 Clean Code Principles  
-- ✅ Unit Testing  
+- Git / GitHub  
+- Postman  
+- Agile Methodologies (SCRUM)  
+- Clean Code Principles  
+- Unit Testing  
 
 #### 🎨 UX/UI & Design
-- 🎨 Figma  
-- 🧱 Design Systems & Atomic Design  
-- ✏️ Wireframing & Prototyping  
-- 🌍 WordPress / WooCommerce  
-- 🖌️ Adobe Suite (Photoshop, After Effects, Illustrator)  
+- Figma  
+- Design Systems & Atomic Design  
+- Wireframing & Prototyping  
+- WordPress / WooCommerce  
+- Adobe Suite (Photoshop, After Effects, Illustrator)  
 
 ---
 
 ### 🌱 Currently Growing In
-- 🔥 Backend Architecture  
-- 🏗️ Full Stack Project Structure  
-- ☁️ Deployment & DevOps Basics  
+- Backend Architecture  
+- Full Stack Project Structure  
+- Deployment & DevOps Basics  
 
 ---
 
