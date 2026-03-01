@@ -66,6 +66,14 @@ I am a dedicated front end developer specialized in React.js, Javascript and Typ
 | 🔐 Gym Management System | Secure REST API with JWT authentication, role management, and unit testing. | ASP.NET Core Web API (C#/.NET) · PostgreSQL · React.js · Unit tests (xUnit) | [Live](#) · [Repo](#) |
 
 ---
+### 🧩 Basic Projects
+
+| Project            | Description                                                                                            | Tech Stack                   | Links       |
+| ------------------ | ------------------------------------------------------------------------------------------------------ | ---------------------------- | ----------- |
+| Encryptor       | Simple text encryption tool built as part of the ONE Program.                                          | HTML · CSS · JavaScript      | [Live](#) · [Repo](#) |
+| Task Manager    | Task management app with add, edit, and delete functionality using local storage for data persistence. | React · TypeScript           | [Live](#) · [Repo](#)|
+| Chat Interface  | Front-end chat UI mockup featuring message sending and smooth scrolling behavior.                      | React · CSS Modules          | [Live](#) · [Repo](#)|
+| Weather Widget | App that fetches real-time weather data from a public API and displays it neatly by city.              | JavaScript · OpenWeather API | [Live](#) · [Repo](#)|
 
 ---
 
