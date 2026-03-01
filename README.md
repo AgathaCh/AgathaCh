@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Raquel Bonilla  
 ### 💻 Frontend Developer | 🚀 Becoming Full Stack Developer  
 
-I am a dedicated front end developer specialized in React.js and TypeScript, focused on building scalable, accessible, and user-centered web applications. With solid foundations in C# and .NET, I bring a strong understanding of backend architecture and API integration. Passionate about clean code, performance optimization, and continuous growth toward full-stack development.
+I am a dedicated front end developer specialized in React.js, Javascript and TypeScript, focused on building scalable, accessible, and user-centered web applications. With solid foundations in C# and .NET, I bring a strong understanding of backend architecture and API integration. Passionate about clean code, performance optimization, and continuous growth toward full-stack development.
 
 - Analytical Thinking ✨
 - Team Collaboration ✨
