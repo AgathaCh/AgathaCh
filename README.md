@@ -70,9 +70,7 @@ I am a dedicated front end developer specialized in React.js, Javascript and Typ
 
 | Project            | Description                                                                                            | Tech Stack                   | Links       |
 | ------------------ | ------------------------------------------------------------------------------------------------------ | ---------------------------- | ----------- |
-| Andromeda Landing 
-with Loading 
-| Screen Animation | Animation Demo landing page showcasing a loading animation screen using Javascript and After Effects with JS library | Lottie.js · JavaScript | [Live](#) · [Repo](#)|
+| Andromeda Landing with Loading Screen Animation | Animation Demo landing page showcasing a loading animation screen using Javascript and After Effects with JS library | Lottie.js · JavaScript | [Live](#) · [Repo](#)|
 | Encryptor       | Simple text encryption tool built as part of the ONE Program.                                          | HTML · CSS · JavaScript      | [Live](#) · [Repo](#) |
 | Task Manager    | Task management app with add, edit, and delete functionality using local storage for data persistence. | React · TypeScript           | [Live](#) · [Repo](#)|
 | Chat Interface  | Front-end chat UI mockup featuring message sending and smooth scrolling behavior.                      | React · CSS Modules          | [Live](#) · [Repo](#)|
