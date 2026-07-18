@@ -1,8 +1,6 @@
 
 ---
 
-### 🛠️ Tech Stack  
-
 #### 🎨 Frontend Tools
 - React.js  
 - JavaScript / TypeScript  
